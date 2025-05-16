@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.Face Recognition Dataset/
+.ipynb_checkpoints/
